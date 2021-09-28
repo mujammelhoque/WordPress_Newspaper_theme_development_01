@@ -1,0 +1,41 @@
+/*
+Theme Name: newsblog
+Theme URL:https://github.com/mujammel
+Author:Mannaf
+Author URL:https://github.com/mujammelhaque
+Description: Our First HyperMinumal Theme
+Version:1.0
+License: GNU General Public License v2 or later
+License URL:http://www.gnu.org/licenses/gpl-2.0.html
+Tags:blog, education
+Text Domain:newsblog
+*/
+li{
+    list-style-type: none;
+}
+#top-left-menu li{
+    display: inline-block;
+
+}
+#main-menu li{
+    display: inline-block;
+}
+#main-menu li a{
+    display: inline-block;
+    margin-left: 5px;
+    padding: 5px 10px;
+    font-size: 18px;
+}
+.b-img{
+    width: 510px;
+    height: 340px;
+}
+.widgettitle{
+    display: none;
+}
+.col-12.col-md-9.align-self-center.fh5co_mediya_right img {
+    height: 123px !important;
+}
+.b-logo img {
+    width: 63px !important;
+}
